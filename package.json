@@ -1,0 +1,23 @@
+{
+  "name": "moviteka",
+  "version": "1.0.0",
+  "description": "Algo para ver",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmartinmachado/moviteka.git"
+  },
+  "keywords": [
+    "moviteka",
+    "peliculas"
+  ],
+  "author": "Juan Martin Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmartinmachado/moviteka/issues"
+  },
+  "homepage": "https://github.com/jmartinmachado/moviteka#readme"
+}
